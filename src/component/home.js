@@ -1,6 +1,4 @@
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
-import homeContact from './Home/homeContact';
 
 const Home = () => {
   return (
